@@ -1,3 +1,5 @@
+-- SQL Server
+
 -- Tạo database
 CREATE DATABASE IF NOT EXISTS TreasureFind;
 USE TreasureFind;
