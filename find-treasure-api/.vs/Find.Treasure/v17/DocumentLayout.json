@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\find-treasure\\find-treasure-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Find.Treasure.Api\\Find.Treasure.Api.csproj|d:\\interview\\find-treasure\\find-treasure-api\\find.treasure.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Find.Treasure.Api\\Find.Treasure.Api.csproj|solutionrelative:find.treasure.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Find.Treasure.Core\\Find.Treasure.Core.csproj|d:\\interview\\find-treasure\\find-treasure-api\\find.treasure.core\\entities\\findtreasuresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Find.Treasure.Core\\Find.Treasure.Core.csproj|solutionrelative:find.treasure.core\\entities\\findtreasuresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Find.Treasure.Infrastructure\\Find.Treasure.Infrastructure.csproj|d:\\interview\\find-treasure\\find-treasure-api\\find.treasure.infrastructure\\repositories\\calculaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Find.Treasure.Infrastructure\\Find.Treasure.Infrastructure.csproj|solutionrelative:find.treasure.infrastructure\\repositories\\calculaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Find.Treasure.Infrastructure\\Find.Treasure.Infrastructure.csproj|d:\\interview\\find-treasure\\find-treasure-api\\find.treasure.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE7DD7E-40C7-41D6-896F-B942B846C1A6}|Find.Treasure.Infrastructure\\Find.Treasure.Infrastructure.csproj|solutionrelative:find.treasure.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Find.Treasure.Core\\Find.Treasure.Core.csproj|d:\\interview\\find-treasure\\find-treasure-api\\find.treasure.core\\interfaces\\repository\\icalculaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Find.Treasure.Core\\Find.Treasure.Core.csproj|solutionrelative:find.treasure.core\\interfaces\\repository\\icalculaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Find.Treasure.Api\\Find.Treasure.Api.csproj|d:\\interview\\find-treasure\\find-treasure-api\\find.treasure.api\\api\\calculatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Find.Treasure.Api\\Find.Treasure.Api.csproj|solutionrelative:find.treasure.api\\api\\calculatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Find.Treasure.Core\\Find.Treasure.Core.csproj|d:\\interview\\find-treasure\\find-treasure-api\\find.treasure.core\\services\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3512248C-0104-4085-96B4-9005FBC67D7C}|Find.Treasure.Core\\Find.Treasure.Core.csproj|solutionrelative:find.treasure.core\\services\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Find.Treasure.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Find.Treasure.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:56:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Find.Treasure.Api\\appsettings.json",
+              "ToolTip": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Api\\appsettings.json",
+              "RelativeToolTip": "Find.Treasure.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T13:49:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindTreasureSettings.cs",
+              "DocumentMoniker": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Core\\Entities\\FindTreasureSettings.cs",
+              "RelativeDocumentMoniker": "Find.Treasure.Core\\Entities\\FindTreasureSettings.cs",
+              "ToolTip": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Core\\Entities\\FindTreasureSettings.cs",
+              "RelativeToolTip": "Find.Treasure.Core\\Entities\\FindTreasureSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:03:34.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateRepository.cs",
+              "DocumentMoniker": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Infrastructure\\Repositories\\CalculateRepository.cs",
+              "RelativeDocumentMoniker": "Find.Treasure.Infrastructure\\Repositories\\CalculateRepository.cs",
+              "ToolTip": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Infrastructure\\Repositories\\CalculateRepository.cs",
+              "RelativeToolTip": "Find.Treasure.Infrastructure\\Repositories\\CalculateRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowFsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:43:34.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculateService.cs",
+              "DocumentMoniker": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Core\\Services\\CalculateService.cs",
+              "RelativeDocumentMoniker": "Find.Treasure.Core\\Services\\CalculateService.cs",
+              "ToolTip": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Core\\Services\\CalculateService.cs",
+              "RelativeToolTip": "Find.Treasure.Core\\Services\\CalculateService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADgv0oAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:31:09.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculateController.cs",
+              "DocumentMoniker": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Api\\Api\\CalculateController.cs",
+              "RelativeDocumentMoniker": "Find.Treasure.Api\\Api\\CalculateController.cs",
+              "ToolTip": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Api\\Api\\CalculateController.cs",
+              "RelativeToolTip": "Find.Treasure.Api\\Api\\CalculateController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:28:16.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculateRepository.cs",
+              "DocumentMoniker": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Core\\Interfaces\\Repository\\ICalculateRepository.cs",
+              "RelativeDocumentMoniker": "Find.Treasure.Core\\Interfaces\\Repository\\ICalculateRepository.cs",
+              "ToolTip": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Core\\Interfaces\\Repository\\ICalculateRepository.cs",
+              "RelativeToolTip": "Find.Treasure.Core\\Interfaces\\Repository\\ICalculateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:30:06.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

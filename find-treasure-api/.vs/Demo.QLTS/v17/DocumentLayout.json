@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\Awing\\find-treasure-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Find.Treasure.Api.csproj|d:\\interview\\awing\\find-treasure-api\\demo.qlts.api\\find.treasure.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B593C7B2-365C-47B9-A982-BAC515960E60}|Demo.QLTS.Api\\Find.Treasure.Api.csproj|solutionrelative:demo.qlts.api\\find.treasure.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find.Treasure.Api",
+              "DocumentMoniker": "D:\\Interview\\Awing\\find-treasure-api\\Demo.QLTS.Api\\Find.Treasure.Api.csproj",
+              "RelativeDocumentMoniker": "Demo.QLTS.Api\\Find.Treasure.Api.csproj",
+              "ToolTip": "D:\\Interview\\Awing\\find-treasure-api\\Demo.QLTS.Api\\Find.Treasure.Api.csproj",
+              "RelativeToolTip": "Demo.QLTS.Api\\Find.Treasure.Api.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T04:22:53.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddExerciseSuccess" xml:space="preserve">
+    <value>Lưu câu hỏi thành công</value>
+  </data>
+  <data name="AddTeacherSuccess" xml:space="preserve">
+    <value>Thêm thông tin giáo viên thành công</value>
+  </data>
+  <data name="DeleteExerciseSuccess" xml:space="preserve">
+    <value>Xóa bài tập thành công</value>
+  </data>
+  <data name="DeleteMultiTeacherSuccess" xml:space="preserve">
+    <value>Xóa thông tin các giáo viên thành công</value>
+  </data>
+  <data name="DeleteTeacherSuccess" xml:space="preserve">
+    <value>Xóa thông tin giáo viên thành công</value>
+  </data>
+  <data name="DepartmentName" xml:space="preserve">
+    <value>Tổ chuyên môn</value>
+  </data>
+  <data name="EditTeacherSuccess" xml:space="preserve">
+    <value>Sửa thông tin giáo viên thành công</value>
+  </data>
+  <data name="EmailInvalid" xml:space="preserve">
+    <value>Email không đúng định dạng. Vui lòng kiểm tra lại</value>
+  </data>
+  <data name="EquipmentQualification" xml:space="preserve">
+    <value>Đào tạo QLTB</value>
+  </data>
+  <data name="EquipmentRoomName" xml:space="preserve">
+    <value>Quản lý kho - phòng</value>
+  </data>
+  <data name="ExcelAuthor" xml:space="preserve">
+    <value>Le Minh Duc</value>
+  </data>
+  <data name="ExcelName" xml:space="preserve">
+    <value>Danh_sach_can_bo_giao_vien.xlsx</value>
+  </data>
+  <data name="ExcelTitle" xml:space="preserve">
+    <value>Danh sách Cán bộ - Giáo viên</value>
+  </data>
+  <data name="ExportTeacherSuccess" xml:space="preserve">
+    <value>Xuất khẩu danh sách giáo viên thành công</value>
+  </data>
+  <data name="FieldEmpty" xml:space="preserve">
+    <value>Trường thông tin không được phép để trống</value>
+  </data>
+  <data name="FullName" xml:space="preserve">
+    <value>Họ và tên</value>
+  </data>
+  <data name="FullNameEmpty" xml:space="preserve">
+    <value>Họ và tên giáo viên không được phép để trống</value>
+  </data>
+  <data name="GetNewTeacherCodeSuccess" xml:space="preserve">
+    <value>Lấy mã giáo viên mới thành công</value>
+  </data>
+  <data name="GetTeacherSuccess" xml:space="preserve">
+    <value>Lấy danh sách giáo viên thành công</value>
+  </data>
+  <data name="ParamInvalid" xml:space="preserve">
+    <value>Tham số truyền vào không hợp lệ. Vui lòng kiểm tra lại</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>Số điện thoại</value>
+  </data>
+  <data name="ServiceError" xml:space="preserve">
+    <value>Có lỗi xảy ra vui lòng liên hệ Công ty để được trợ giúp</value>
+  </data>
+  <data name="SubjectName" xml:space="preserve">
+    <value>Quản lý thiết bị môn</value>
+  </data>
+  <data name="TeacherCode" xml:space="preserve">
+    <value>Số hiệu cán bộ</value>
+  </data>
+  <data name="TeacherCodeEmpty" xml:space="preserve">
+    <value>Mã giáo viên không được phép để trống</value>
+  </data>
+  <data name="TeacherCodeEndNumber" xml:space="preserve">
+    <value>Mã giáo viên phải kết thúc bằng chữ số. Vui lòng kiểm tra lại</value>
+  </data>
+  <data name="TeacherCodeExist" xml:space="preserve">
+    <value>Mã giáo viên đã tồn tại trong hệ thống. Vui lòng kiểm tra lại</value>
+  </data>
+  <data name="WorksheetName" xml:space="preserve">
+    <value>Danh sách CBTB</value>
+  </data>
+  <data name="WorksheetTitle" xml:space="preserve">
+    <value>DANH SÁCH CÁN BỘ - GIÁO VIÊN</value>
+  </data>
+  <data name="WorkStatus" xml:space="preserve">
+    <value>Đang làm việc</value>
+  </data>
+  <data name="Stt" xml:space="preserve">
+    <value>STT</value>
+  </data>
+</root>

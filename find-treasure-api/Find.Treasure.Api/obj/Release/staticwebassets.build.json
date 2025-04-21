@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "HNlns3xVNHI+LdRpWPv3EpcplT8EWnEN5E1on6Pli5c=",
+  "Source": "Demo.QLTS.Api",
+  "BasePath": "_content/Demo.QLTS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Demo.QLTS.Api\\wwwroot",
+      "Source": "Demo.QLTS.Api",
+      "ContentRoot": "D:\\Linkedin\\k8s\\code\\BackEnd\\Demo.QLTS.Api\\wwwroot\\",
+      "BasePath": "_content/Demo.QLTS.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

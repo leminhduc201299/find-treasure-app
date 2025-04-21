@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "Lk9miLMAcTVfNRLQCJRiAvTsGw1BSm8GnPhukGmUnTg=",
+  "Source": "Find.Treasure.Api",
+  "BasePath": "_content/Find.Treasure.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Find.Treasure.Api\\wwwroot",
+      "Source": "Find.Treasure.Api",
+      "ContentRoot": "D:\\Interview\\find-treasure\\find-treasure-api\\Find.Treasure.Api\\wwwroot\\",
+      "BasePath": "_content/Find.Treasure.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

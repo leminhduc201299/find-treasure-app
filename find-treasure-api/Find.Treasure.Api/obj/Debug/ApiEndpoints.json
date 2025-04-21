@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "Find.Treasure.Api.Api.CalculateController",
+    "Method": "Calculate",
+    "RelativePath": "api/Calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Find.Treasure.Core.DTOs.CalculateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Find.Treasure.Core.DTOs.CalculateResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Find.Treasure.Api.Api.CalculateController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Calculate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Find.Treasure.Api.Api.CalculateController",
+    "Method": "GetDetail",
+    "RelativePath": "api/Calculate/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

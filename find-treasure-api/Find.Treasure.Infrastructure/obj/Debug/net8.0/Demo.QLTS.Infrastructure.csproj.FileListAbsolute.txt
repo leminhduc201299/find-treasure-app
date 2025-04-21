@@ -1,0 +1,15 @@
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\bin\Debug\net8.0\Demo.QLTS.Infrastructure.deps.json
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\bin\Debug\net8.0\Demo.QLTS.Infrastructure.dll
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\bin\Debug\net8.0\Demo.QLTS.Infrastructure.pdb
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\bin\Debug\net8.0\Demo.QLTS.Core.dll
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\bin\Debug\net8.0\Demo.QLTS.Core.pdb
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLTS.Infrastructure.csproj.AssemblyReference.cache
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLTS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLTS.Infrastructure.AssemblyInfoInputs.cache
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLTS.Infrastructure.AssemblyInfo.cs
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLTS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLT.06538041.Up2Date
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLTS.Infrastructure.dll
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\refint\Demo.QLTS.Infrastructure.dll
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\Demo.QLTS.Infrastructure.pdb
+D:\Learning\Project\stream-app-api\Demo.QLTS.Infrastructure\obj\Debug\net8.0\ref\Demo.QLTS.Infrastructure.dll

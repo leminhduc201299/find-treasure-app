@@ -1,0 +1,251 @@
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.json
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.exe
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.deps.json
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.json
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.dev.json
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Dapper.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\EPPlus.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MySqlConnector.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.AssemblyReference.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfoInputs.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfo.cs
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.CoreCompileInputs.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.Manifest.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.xml
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\scopedcss\bundle\MISA.Fresher.CukCuk.Api.styles.css
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.RazorTargetAssemblyInfo.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.CopyComplete
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.genruntimeconfig.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.json
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.exe
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.deps.json
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.json
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.dev.json
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Dapper.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\DnsClient.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\EPPlus.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MySqlConnector.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\SharpCompress.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.AssemblyReference.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfoInputs.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfo.cs
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.CoreCompileInputs.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.Manifest.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.xml
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\scopedcss\bundle\MISA.Fresher.CukCuk.Api.styles.css
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.RazorTargetAssemblyInfo.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.CopyComplete
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.genruntimeconfig.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.json
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.exe
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.deps.json
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.json
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.dev.json
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Dapper.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\DnsClient.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\EPPlus.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MySqlConnector.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\SharpCompress.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.AssemblyReference.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfoInputs.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfo.cs
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.CoreCompileInputs.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.Manifest.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.xml
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\scopedcss\bundle\MISA.Fresher.CukCuk.Api.styles.css
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.RazorTargetAssemblyInfo.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.genruntimeconfig.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.CopyComplete
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.AssemblyInfo.cs
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.exe
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.deps.json
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.json
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.runtimeconfig.dev.json
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Api.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Api.pdb
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\DnsClient.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\EPPlus.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\staticwebassets\MISA.Fresher.CukCuk.Api.StaticWebAssets.xml
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\scopedcss\bundle\MISA.Fresher.CukCuk.Api.styles.css
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\LeMinhDuc\Interview.BackEnd\MISA.Fresher.CukCuk.Api\obj\Debug\net5.0\MISA.Fresher.CukCuk.Api.genruntimeconfig.cache

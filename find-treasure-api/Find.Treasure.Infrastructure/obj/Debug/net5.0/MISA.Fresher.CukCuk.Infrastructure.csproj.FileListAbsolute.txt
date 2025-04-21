@@ -1,0 +1,73 @@
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.deps.json
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.AssemblyReference.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfo.cs
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CopyComplete
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Đào tạo\MS.WEB2021_09\929-lmduc\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.deps.json
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.AssemblyReference.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfo.cs
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CopyComplete
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.AssemblyReference.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfo.cs
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.deps.json
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Fresher\Giai_doan_2\Code\EMIS\MISA.Fresher.CukCuk\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CopyComplete
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.deps.json
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.AssemblyReference.cache
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfo.cs
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Learn Kubenetes\practice\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.deps.json
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.dll
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\bin\Debug\net5.0\MISA.Fresher.CukCuk.Core.pdb
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.AssemblyReference.cache
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfoInputs.cache
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.AssemblyInfo.cs
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\ref\MISA.Fresher.CukCuk.Infrastructure.dll
+D:\Linkedin\k8s\code\BackEnd\MISA.Fresher.CukCuk.Infrastructure\obj\Debug\net5.0\MISA.Fresher.CukCuk.Infrastructure.pdb

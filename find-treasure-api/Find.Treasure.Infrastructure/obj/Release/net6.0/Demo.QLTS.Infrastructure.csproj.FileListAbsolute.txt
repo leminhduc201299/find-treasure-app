@@ -1,0 +1,15 @@
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\bin\Release\net6.0\Demo.QLTS.Infrastructure.deps.json
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\bin\Release\net6.0\Demo.QLTS.Infrastructure.dll
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\bin\Release\net6.0\Demo.QLTS.Infrastructure.pdb
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\bin\Release\net6.0\Demo.QLTS.Core.dll
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\bin\Release\net6.0\Demo.QLTS.Core.pdb
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLTS.Infrastructure.csproj.AssemblyReference.cache
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLTS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLTS.Infrastructure.AssemblyInfoInputs.cache
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLTS.Infrastructure.AssemblyInfo.cs
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLTS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLT.06538041.Up2Date
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLTS.Infrastructure.dll
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\refint\Demo.QLTS.Infrastructure.dll
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\Demo.QLTS.Infrastructure.pdb
+D:\Linkedin\k8s\code\BackEnd\Demo.QLTS.Infrastructure\obj\Release\net6.0\ref\Demo.QLTS.Infrastructure.dll

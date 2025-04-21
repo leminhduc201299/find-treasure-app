@@ -1,0 +1,14 @@
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\bin\Debug\net8.0\Demo.QLTS.Core.deps.json
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\bin\Debug\net8.0\Demo.QLTS.Core.dll
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\bin\Debug\net8.0\Demo.QLTS.Core.pdb
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.csproj.AssemblyReference.cache
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.Resources.Resources.resources
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.csproj.GenerateResource.cache
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.AssemblyInfoInputs.cache
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.AssemblyInfo.cs
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.csproj.CoreCompileInputs.cache
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.dll
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\refint\Demo.QLTS.Core.dll
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\Demo.QLTS.Core.pdb
+D:\Learning\Project\stream-app-api\Demo.QLTS.Core\obj\Debug\net8.0\ref\Demo.QLTS.Core.dll
